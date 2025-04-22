@@ -1,5 +1,8 @@
 ## 🐈‍⬛
 <p align="center">
+      <img width="500" height="100" src="https://psv4.userapi.com/s/v1/d/Iia5-HBHIs2qApeKwOceHbiQRyp1ZUgfRVgE-FnVhW_PeStOf704F6VXPYo9wKL1uewqNz5CYsoekJjA5exfCwvb5r8oiv-eBgbQbgv2m3xZAMlLmcGD5Q/Bez_nazvania25_20250422124729.png">
+</p>
+<p align="center">
 𝒴𝑜𝓊𝓇 𝓈𝑜𝒻𝓉 𝓂𝓎𝑜𝒸𝒶𝓇𝒹𝒾𝓊𝓂 𝒾𝓈 𝓈𝑜 𝓈𝓌𝑒𝑒𝓉 𝑜𝓃 𝓂𝓎 𝓁𝒾𝓅𝓈  𝆹𝅥 
  </p>     
 <p align="center">
