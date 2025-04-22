@@ -29,7 +29,7 @@
 <p align="center">
       <img width="500" height="100" src="https://psv4.userapi.com/s/v1/d/9DaHCVXgWgi1e4vPMrImNf_NgPGSV7VnDDnXySN23mUyK68GoXJJjanRj2cWf8jWHVf9_yPAcz949Fe2vCbDl8Uq7QePdVGJQqm9OMkCMRoklIgK2VYzIA/IMG_20250422_140216.png">
 </p>
-<IMG SRC="[![cat.gif](https://i.postimg.cc/kXRTGQMv/cat.gif)](https://postimg.cc/xcYvFbzX)"> 
 
+![][cat.gif](https://s.iimg.su/s/22/AvlKI7L1NzCLP4JYgDYG26yeePw7xm3DZ2HRObbK.gif)](https://iimg.su/i/MKG4tp)
 
 
