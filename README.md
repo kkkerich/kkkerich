@@ -1,7 +1,8 @@
 ## 🐈‍⬛
 <p align="center">
-      <img width="50" height="50" src="https://psv4.userapi.com/s/v1/d/oGKOaLMLZ9qMLHz7YixyWf4rVMipPoj2IiroKbhCuEFJTGQuy1VE6trgzk2fmeqF40xVLA2LVZ0BXKyQ_44pHYUncXJ-v3eM5611HdaVHzUxT47X0Uxt0A/1745329372595.mp4">
+      <img width="600" height="200" src="https://psv4.userapi.com/s/v1/d/EHIOiKa47NS3FXD5PrFH2QvzUKe-2lowPQMR0S75_KqFHxSH7HJt5OrcpjCSbldBziLxrQFtQNWIC7PXnNQDo8KfvWS0fyFDDL-jwdaylsVvBpIJgq2sWQ/Bez_nazvania25_20250422124729.png">
 </p>
+
 
 
 <p align="center">
