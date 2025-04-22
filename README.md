@@ -6,9 +6,7 @@
 <p align="center">
 𝒴𝑜𝓊𝓇 𝓈𝑜𝒻𝓉 𝓂𝓎𝑜𝒸𝒶𝓇𝒹𝒾𝓊𝓂 𝒾𝓈 𝓈𝑜 𝓈𝓌𝑒𝑒𝓉 𝑜𝓃 𝓂𝓎 𝓁𝒾𝓅𝓈  𝆹𝅥 
  </p>   
-<p align="center">
-      <img width="200" height="100" src="https://psv4.userapi.com/s/v1/d/MQ3_K8CKpMSLGd-dpOmXsEI7MC66iqu7FvJluyuF5qS96Iv_1EmHrhpwQRS2lz8r59JXIRZfeRZT5Kcjwb8bOLonSZdW4JFXGi96KmcnmzGNtdY177HRfg/1745329372595.mp4">
-</p>
+
 
  
 <p align="center">
