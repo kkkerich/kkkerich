@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-      <img width="200" height="200" src="<a href="https://iimg.su/i/afPCPr"><img src="https://s.iimg.su/s/22/jCeEgrYvMQ7qMjJ3AhtSS8o5E7o4TCEJzzRAbkWg.gif"></a>">
+      <img width="200" height="200"  src="https://s.iimg.su/s/22/jCeEgrYvMQ7qMjJ3AhtSS8o5E7o4TCEJzzRAbkWg.gif"
 </p>
 
 
