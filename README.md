@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-      <img width="200" height="200" src="https://s.iimg.su/s/22/th_jCeEgrYvMQ7qMjJ3AhtSS8o5E7o4TCEJzzRAbkWg.gif"
+      <img width="200" height="200" src="https://cdn.corenexis.com/view/?img=d/ap22/rQrInq.gif"
 </p>
 
 
