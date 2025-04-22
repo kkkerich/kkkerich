@@ -1,6 +1,6 @@
 ## 🐈‍⬛
 <p align="center">
-      <img width="600" height="100" src="https://psv4.userapi.com/s/v1/d/p11j8EafCRcBl3WgxawN_lCQEtCdDxQtXcUVHQcAg1atJ_2KVHdBepG9QFHKOD3oM90mfvSdfhQLXYzpQwlioFLeKjHtl22cpIneW3fCjJPoU7hJykUGGA/IMG_20250422_135357.png">
+      <img width="600" height="100" src="https://psv4.userapi.com/s/v1/d/MQ3_K8CKpMSLGd-dpOmXsEI7MC66iqu7FvJluyuF5qS96Iv_1EmHrhpwQRS2lz8r59JXIRZfeRZT5Kcjwb8bOLonSZdW4JFXGi96KmcnmzGNtdY177HRfg/1745329372595.mp4">
 </p>
 <p align="center">
       <img width="50" height="50" src="https://psv4.userapi.com/s/v1/d/SGvh5ePa2gg58qd3hjmi8gdoqN3QbaHlBsTP4quPXFuwNBa4lwXSh-VjXOx_1uZsldbJmamgns9E82cBXJSU2JLg4WBg6NWdDmybIlD9fVAFrBdM2N-uOw/removed.png">
