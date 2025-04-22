@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-      <img width="600" height="100" src="[![cat.gif](https://i.postimg.cc/kXRTGQMv/cat.gif)](https://postimg.cc/xcYvFbzX)">
+      <img width="200" height="200" src="[![cat.gif](https://i.postimg.cc/kXRTGQMv/cat.gif)](https://postimg.cc/xcYvFbzX)">
 </p>
 
 
