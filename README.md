@@ -20,3 +20,7 @@
 <p align="center">
       <img width="200" height="200" src="https://psv4.userapi.com/s/v1/d/dofOiHMiIAFVl-Fu3q1rO4CaoUPf3BUF1FFbEIS_e7iEqlzr92bQulsa6o0dwAqUwM-0LlmkWQ8CLKFNc-Jf-eyH1lHIqHJK59yn9tqt90JkgS3mYn6_xQ/Bez_nazvania24_20250421213809.png">
 </p>
+<p align="center">
+      <img width="500" height="100" src="https://psv4.userapi.com/s/v1/d/9DaHCVXgWgi1e4vPMrImNf_NgPGSV7VnDDnXySN23mUyK68GoXJJjanRj2cWf8jWHVf9_yPAcz949Fe2vCbDl8Uq7QePdVGJQqm9OMkCMRoklIgK2VYzIA/IMG_20250422_140216.png">
+</p>
+
