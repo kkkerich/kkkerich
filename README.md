@@ -6,7 +6,7 @@
 
 
 <p align="center">
-      <img width="50" height="50" src="https://psv4.userapi.com/s/v1/d/SGvh5ePa2gg58qd3hjmi8gdoqN3QbaHlBsTP4quPXFuwNBa4lwXSh-VjXOx_1uZsldbJmamgns9E82cBXJSU2JLg4WBg6NWdDmybIlD9fVAFrBdM2N-uOw/removed.png">
+      <img width="80" height="100" src="https://psv4.userapi.com/s/v1/d/SGvh5ePa2gg58qd3hjmi8gdoqN3QbaHlBsTP4quPXFuwNBa4lwXSh-VjXOx_1uZsldbJmamgns9E82cBXJSU2JLg4WBg6NWdDmybIlD9fVAFrBdM2N-uOw/removed.png">
 </p>
 <p align="center">
 𝒴𝑜𝓊𝓇 𝓈𝑜𝒻𝓉 𝓂𝓎𝑜𝒸𝒶𝓇𝒹𝒾𝓊𝓂 𝒾𝓈 𝓈𝑜 𝓈𝓌𝑒𝑒𝓉 𝑜𝓃 𝓂𝓎 𝓁𝒾𝓅𝓈  𝆹𝅥 
