@@ -31,5 +31,8 @@
 </p>
 
 
+![](https://komarev.com/ghpvc/?username=kkkerich&style=for-the-badge&color=421314&label=✦)
+
+
 
 
