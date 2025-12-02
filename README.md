@@ -15,7 +15,7 @@
 
  
 <p align="center">
-      <img width="300" height="400" src="https://psv4.userapi.com/s/v1/d2/lpLjJ32K2CRBXMPGuod9a0jU3y4ez30_XaTT6a0G0JtfxlXFUV-ODXhxYUQFsunVMvB8a7USqrCsRG80Xi6dImVvNO1c036xBfqSNZzLrahN2La6I-YLs7zE1BJIJPqpaGalcYTuCr8c/Bez_nazvania54_20251202130819.png">
+      <img width="300" height="400" src="https://psv4.userapi.com/s/v1/d2/yMElYDNOOf7gsD68vq1dCi9pE5EGXZJJ2yl4OqPT9rEeisakT6P0IHxGcOEhbzIx5c5oG6u-7FYMzBdGzsIhWHecc0OIzYCePYOqnlFr_H-UaZ80l8rgVJZsKahgy8lZ85e5077Y549n/Bez_nazvania54_20251202134350.png">
 </p>
 
 
