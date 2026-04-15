@@ -6,7 +6,7 @@
 
 
 <p align="center">
-      <img width="80" height="100" src="https://psv4.userapi.com/s/v1/d2/QvMtdqIfisrqbMqPnI0Q6n78aE6cVbp9kSrkJySISDIzkor7Rq4MSH-qceTg8U_kUQGys3LHBDn1wqmvjB55fXtUn1gsPJ_PbIRgZtzTW4pxmVRdpa2Nn-aGSFueAmO1tdh36IxaXDFm/removed_24.png">
+      <img width="80" height="80" src="https://psv4.userapi.com/s/v1/d2/QvMtdqIfisrqbMqPnI0Q6n78aE6cVbp9kSrkJySISDIzkor7Rq4MSH-qceTg8U_kUQGys3LHBDn1wqmvjB55fXtUn1gsPJ_PbIRgZtzTW4pxmVRdpa2Nn-aGSFueAmO1tdh36IxaXDFm/removed_24.png">
 </p>
 <p align="center">
 𝒴𝑜𝓊𝓇 𝓈𝑜𝒻𝓉 𝓂𝓎𝑜𝒸𝒶𝓇𝒹𝒾𝓊𝓂 𝒾𝓈 𝓈𝑜 𝓈𝓌𝑒𝑒𝓉 𝑜𝓃 𝓂𝓎 𝓁𝒾𝓅𝓈  𝆹𝅥 
@@ -15,7 +15,7 @@
 
  
 <p align="center">
-      <img width="300" height="350" src="https://psv4.userapi.com/s/v1/d2/yMElYDNOOf7gsD68vq1dCi9pE5EGXZJJ2yl4OqPT9rEeisakT6P0IHxGcOEhbzIx5c5oG6u-7FYMzBdGzsIhWHecc0OIzYCePYOqnlFr_H-UaZ80l8rgVJZsKahgy8lZ85e5077Y549n/Bez_nazvania54_20251202134350.png">
+      <img width="300" height="300" src="https://psv4.userapi.com/s/v1/d2/yMElYDNOOf7gsD68vq1dCi9pE5EGXZJJ2yl4OqPT9rEeisakT6P0IHxGcOEhbzIx5c5oG6u-7FYMzBdGzsIhWHecc0OIzYCePYOqnlFr_H-UaZ80l8rgVJZsKahgy8lZ85e5077Y549n/Bez_nazvania54_20251202134350.png">
 </p>
 
 
